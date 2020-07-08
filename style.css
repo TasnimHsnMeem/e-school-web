@@ -1,0 +1,120 @@
+.container{
+    margin-bottom: 100px;
+}
+.button{
+    color: white !important;
+    background-color:#21b573;
+    border-radius: 33px;
+    height: 43px;
+    width: 104px;
+    cursor: pointer;
+    text-align: center;
+    
+   
+}
+#button-padding{
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+.nav-item{
+    font-weight: 700;
+    padding: 10px;
+}
+
+#top-line{
+    color:red;
+}
+.top-bg{
+background-color:#e3f5ed ;
+}
+.get-button{
+    color: white;
+    background-color: #21b573;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+   
+
+
+}
+.card-1 img{
+    width: 30%;
+}
+}
+.top-line-1{
+    font-weight: 700;
+    font-size: 60px;
+}
+span{
+    color:#21b573;
+}
+.last-line{
+    color:grey;
+    
+}
+.card-title{
+    font-size: 22px;
+    color: rgb(67, 26, 97);
+}
+.card-text{
+    text-align: center;
+    color: rgb(107, 101, 101);
+    font-weight: 600;
+}
+.card{
+     box-shadow: 10px 10px 30px lightgray;
+     border-radius: 10px;
+     margin-left: 10px;
+     padding: 25px 25px;
+     margin-top: 50px;
+  
+}
+
+
+.buy-button{
+    color: white;
+    background-color: #21b573;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 30px;
+    cursor: pointer;
+}
+.card-div{
+    margin-top: 25px;
+    color: rgb(105, 102, 102);
+    font-size: 15px;
+    font-weight: 700;
+
+}
+.paragrap{
+    margin-top: 30px;
+
+}
+
+   
+section{
+    color: white;
+    font-weight: 600;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+}
+.bottom-1{
+    padding-left: 80px;
+    padding-top: 20px;
+}
+
+.text{
+    font-weight: 700;
+}
+ul{
+    list-style: none;
+}
+.last-part{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+    padding-bottom: 20px;
+}
